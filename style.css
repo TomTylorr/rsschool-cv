@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.container-card {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.navigation {
+  text-transform: uppercase;  
+  background-color: antiquewhite;
+  color: green;
+  padding: 5px 0px 5px 0px;
+  margin-bottom: 20px;
+} 
+
+.img-avatar {
+    display:block;
+    margin: auto;
+}
+
+.img-caption {
+    color: red;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+.contacts-lists {
+    text-align: left;
+    padding-left: 33%;
+}
+
+.viber-icon::before {
+    content: url("/assets/img/viber_mini.png");
+    width: 60px;
+    height: 40px;
+    position: relative;
+    left: 10px;
+    top: 13px;
+}
+
+.email-icon::before {
+    content: url("/assets/img/gmail_mini.png");
+    width: 40px;
+    height: 27px;
+    position: relative;
+    top: 13px;
+}
+
+.viber {
+    padding-bottom: 20px;
+}
+
+.email {
+    padding-left: 20px;
+}
+
+.my-skills {
+    text-align: left;
+    
+}
+
+.my-skill-lists {
+    padding-left: 33%;
+}
+
+.my-skills-title {
+    text-align: center;
+}
+
+.my-jobs-lists {
+    text-align: left;
+    padding-left: 23%;
+}
+
+.footer {
+    text-transform: uppercase;  
+    background-color: antiquewhite;
+    color: green;
+    padding: 5px 0px 5px 0px;
+    margin-bottom: 20px;
+    height: 80px;
+}
+
+.footer-title {
+    text-align: center;
+}
+
+
+
