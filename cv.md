@@ -7,7 +7,7 @@
 * **GitHub:** TomTylorr
 
 ## About Me
-My name is Dima, I am 30 years old, I love web development. My goal is to get a job as a web developer.
+Hi! My name is Dima, I am 30 years old. Since 24 years I have been interested in web development, but so far more was as a hobby. Now I want to turn my hobby into a source of income.
 
 ## Skills
 
