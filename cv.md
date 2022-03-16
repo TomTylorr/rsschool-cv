@@ -12,13 +12,14 @@ Hi! My name is Dima, I am 30 years old. Since 24 years I have been interested in
 ## Skills
 
 * HTML
-* CSS
-* JavaScript 
-* Git
-* PHP
+* CSS, SCCS
+* JavaScript basics 
+* Git, GitHub
+* PHP basics
 * WordPress
 * Tilda
 * 1C-Bitrix
+* Photoshop, Figma
 
 ## Code Example
 
